@@ -1,4 +1,4 @@
-A A Odin's Project project that displays a website - practice.
+A Odin's Project project that displays a website - practice.
 
 This is an explanation to a project im undertaking about making a website and filling it with content.
 The website will have recipes put together on things I don't know yet.
